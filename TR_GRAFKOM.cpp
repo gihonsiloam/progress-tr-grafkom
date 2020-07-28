@@ -4,7 +4,7 @@
 
 void init(void);
 void tampil(void);
-void mouse ( int button , int state , int x , int y); //672018009 672018012 672018023
+void mouse ( int button , int state , int x , int y); //672018009 Gihon Siloam, 672018012 Nicholass Jeffensen Purnama, 672018023 Calvin Ravelino
 void ukuran (int , int);
 void mouseMotion(int x , int y);
 void keyboard(unsigned char, int x, int y);
